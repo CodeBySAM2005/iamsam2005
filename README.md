@@ -1,3 +1,3 @@
 # iamsam2005
-This my first Git Repository.
+This is my first Git Repository.
 Author - Suman Nandi
